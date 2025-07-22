@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 frtgyujik
+=======
+i am god
+>>>>>>> feature-y
